@@ -76,7 +76,7 @@ I'm a strong believer in:
 
 ## 🤝 Let's Connect
 
-- 📝 [LinkedIn](https://www.linkedin.com/in/yourusername)
+- 📝 [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/evanaddeo/))
 - 🌍 [Personal Blog]()
 - 📧 evanmaddeo@gmail.com
 
