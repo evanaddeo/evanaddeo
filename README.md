@@ -1,5 +1,5 @@
 <!-- Header Banner (custom image or simple emoji greeting) -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1D976C,100:93F9B9&height=200&section=header&text=Hi,%20I'm%20Alex%20Chen!&fontSize=40&fontColor=fff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1D976C,100:93F9B9&height=200&section=header&text=Hi,%20I'm%20Evan%20Addeo!&fontSize=40&fontColor=fff)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=1D976C&width=435&lines=Full-stack+Developer;AI+%26+ML+Enthusiast;Cloud+Architect;Open+Source+Advocate;Continuous+Learner" alt="Typing SVG" />
