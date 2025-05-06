@@ -68,8 +68,8 @@ I'm a strong believer in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_rank=true" alt="Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=evanaddeo&show_icons=true&theme=radical&hide_rank=true" alt="Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evanaddeo&theme=radical" alt="Streak" height="160"/>
 </p>
 
 ---
