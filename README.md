@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hi! I'm **Evan Addeo**, a passionate software engineer with a love for all things cutting-edge!  
 - Currently seeking new opportunities to build impactful products
@@ -18,7 +18,7 @@ Hi! I'm **Evan Addeo**, a passionate software engineer with a love for all thing
 
 ---
 
-## 🛠️ My Toolbox
+## My Toolbox
 
 <p align="left">
   <!-- Programming Languages -->
@@ -53,7 +53,7 @@ Hi! I'm **Evan Addeo**, a passionate software engineer with a love for all thing
 
 ---
 
-## 🧭 My Philosophy
+## My Philosophy
 
 > "Great engineers are humble explorers, always refactoring, always learning."
 
@@ -65,7 +65,7 @@ I'm a strong believer in:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=evanaddeo&show_icons=true&theme=radical&hide_rank=true" alt="Stats" height="160"/>
@@ -74,7 +74,7 @@ I'm a strong believer in:
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - 📝 [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/evanaddeo/))
 - 📧 evanmaddeo@gmail.com
@@ -86,8 +86,3 @@ Feel free to DM about:
 - Or just to say hi! 👋
 
 ---
-
-<!-- Footer emoji flare -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" height="50" /> <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="50" />
-</p>
