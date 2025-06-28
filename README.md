@@ -10,11 +10,11 @@
 ## 👨‍💻 About Me
 
 Hi! I'm **Evan Addeo**, a passionate software engineer with a love for all things cutting-edge!  
-- 🏢 Currently seeking new opportunities to build impactful products
-- 🚀 2+ years in full-stack development, distributed systems, and DevOps
-- 🤖 Avid explorer in AI/ML and emergent tech—I'm captivated by the future of intelligence
-- 🧠 Advocate for lifelong learning, mentoring, and open-source collaboration
-- 😄 Fun fact: 
+- Currently seeking new opportunities to build impactful products
+- 2+ years in full-stack development, distributed systems, and DevOps
+- Avid explorer in AI/ML and emergent tech—I'm captivated by the future of intelligence
+- Advocate for lifelong learning, mentoring, and open-source collaboration
+- Fun fact: 
 
 ---
 
@@ -61,7 +61,7 @@ I'm a strong believer in:
 - Pragmatic problem-solving (don’t fix what works—unless it's fun)
 - TDD when it’s useful, debugging when it’s necessary
 - Writing code that I’ll thank myself for later
-- Weaving creativity into technical work 🌈
+- Weaving creativity into technical work 
 
 ---
 
@@ -77,7 +77,6 @@ I'm a strong believer in:
 ## 🤝 Let's Connect
 
 - 📝 [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/evanaddeo/))
-- 🌍 [Personal Blog]()
 - 📧 evanmaddeo@gmail.com
 
 Feel free to DM about:
